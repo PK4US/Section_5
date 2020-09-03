@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lesson_6</string>
+    <string-array name="spinner">
+        <item>Сок</item>
+        <item>Вода</item>
+        <item>Газировка</item>
+        <item>Кола</item>
+    </string-array>
+</resources>

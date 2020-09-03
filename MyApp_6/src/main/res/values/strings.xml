@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApp_6</string>
+    <string-array name="spinner">
+        <item>Красный</item>
+        <item>Желтый</item>
+        <item>Синий</item>
+    </string-array>
+</resources>
