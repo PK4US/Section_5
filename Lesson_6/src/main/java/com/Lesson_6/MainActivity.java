@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity {
             public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
                 System.out.println("Вы выбрали: " + adapterView.getItemAtPosition(i).toString());
             }
-
             @Override
             public void onNothingSelected(AdapterView<?> adapterView) {
                 System.out.println("Hello");

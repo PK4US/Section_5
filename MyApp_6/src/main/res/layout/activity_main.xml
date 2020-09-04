@@ -25,4 +25,18 @@
         android:text="ЦВЕТ"
         android:textSize="36sp"
         android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/telega"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:autoLink="web"
+        android:background="#ccc"
+        android:fontFamily="sans-serif"
+        android:text="t.me/PK4U_S"
+        android:textColor="#000"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"/>
 </RelativeLayout>
