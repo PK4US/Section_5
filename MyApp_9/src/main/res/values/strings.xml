@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyApp_9</string>
+    <string name="TextInEditText_HINT">Текст</string>
 </resources>
