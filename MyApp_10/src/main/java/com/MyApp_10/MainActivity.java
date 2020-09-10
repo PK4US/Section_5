@@ -30,5 +30,6 @@ public class MainActivity extends AppCompatActivity {
     public void onClick(View view) {
         EditText et = findViewById(R.id.et);
         beverages.add(et.getText().toString());
+        adapter.notifyDataSetChanged();
     }
 }
